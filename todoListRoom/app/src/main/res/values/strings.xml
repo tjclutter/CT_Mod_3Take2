@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">todoListRoom</string>
+    <string name="title_activity_add_task">addTask</string>
+    <string name="title_activity_delete_task">deleteTask</string>
+</resources>
